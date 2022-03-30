@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HoJun%20Lee&fontSize=90&fontColor=3c3c3c)   
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HoJun%20Lee&fontSize=90&fontColor=3c3c3c)   
 
 <div align="center">   
-  <h1>🛠️ Tech Stack 🛠️</h1>
+  <h2>🛠️ Tech Stack 🛠️</h2>
   <h3>BackEnd</h3>
   <img src="https://img.shields.io/badge/Java-0A8A8A?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
@@ -18,8 +18,11 @@
   <h3>DevOps</h3>
   <img src="https://img.shields.io/badge/Linux-3c3c3c?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-3C5087?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-  
-  <h1>✋ Me ✋</h1>
+  <br/>   
+  <br/>   
+  <br/>   
+  <br/>   
+  <h2>✋ Me ✋</h2>
   <a href="https://dev-coco.tistory.com/">
   <img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
@@ -29,6 +32,8 @@
   <a href="mailto:gotjd8515@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
+  <br/>   
+  [![Ho Jun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunnnnn)](https://github.com/anuraghazra/github-readme-stats)
 </div>   
 <!--
 **hojunnnnn/hojunnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
