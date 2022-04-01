@@ -21,7 +21,7 @@
  <br/><br/><br/>
 
 
-  <h2>✋ Me ✋</h2>
+  <h2></h2>
   <a href="https://dev-coco.tistory.com/">
   <img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
