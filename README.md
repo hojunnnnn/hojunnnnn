@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-B750EA?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mustache-FF6464?style=flat-square&logo=Handlebars.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Thymeleaf-288C28?style=flat-square&logo=thymeleaf&logoColor=white"/></a>&nbsp
   <h3>DevOps</h3>
   <img src="https://img.shields.io/badge/Linux-3c3c3c?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-3C5087?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
