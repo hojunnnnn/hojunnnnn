@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring Data JPA-28B4B4?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Hibernate-28B4B4?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/H2-5a5a5a?style=flat-square"/></a>&nbsp   
   <h3>FrontEnd</h3>
