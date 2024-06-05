@@ -26,9 +26,9 @@
   <a href="https://dev-coco.tistory.com/">
   <img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_howns/">
+<!--   <a href="https://www.instagram.com/_howns/">
   <img src="https://img.shields.io/badge/Instagram-FF5A5A?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:gotjd8515@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
