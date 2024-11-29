@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/H2-5a5a5a?style=flat-square"/></a>&nbsp   
   <h3>FrontEnd</h3>
@@ -23,15 +23,9 @@
 
 
   <h2></h2>
-  <a href="https://dev-coco.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_howns/">
-  <img src="https://img.shields.io/badge/Instagram-FF5A5A?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:gotjd8515@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
+  <a href="https://dev-coco.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/_howns/"><img src="https://img.shields.io/badge/Instagram-FF5A5A?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+  <a href="mailto:gotjd8515@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
  <br/><br/><br/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojunnnnn&count_bg=%234E97D4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
